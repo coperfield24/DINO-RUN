@@ -1,0 +1,1 @@
+// Se encarga de gestionar cuando aparecen las diferentes pantallas del juego (inicio, el juego y game over)

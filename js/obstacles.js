@@ -1,0 +1,1 @@
+// Creación y eliminación de los obstáculos ajustando la velocidad según la dificultad del juego

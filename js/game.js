@@ -1,0 +1,1 @@
+// Se encarga del estado del juego, del movimiento del fondo, la lógica de los choques, las pausas y el reinicio del juego, la lógica de la dificultad
