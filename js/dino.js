@@ -1,0 +1,1 @@
+// Se encarga del movimiento del dinosaurio
