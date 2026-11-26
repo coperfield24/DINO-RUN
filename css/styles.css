@@ -1,7 +1,6 @@
 .game-area{
     width: 1000px;
     height: 500px;
-    position: relative;
     border-bottom: 2px solid #000000;
     position: absolute;
     top: 50%;
@@ -19,4 +18,20 @@
     position: absolute;
     bottom: -7px;
     left: 50px;
+}
+
+.jumping{
+    animation: dino-jump 0.5s;
+}
+
+@keyframes dino-jump{
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(-192px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
 }
